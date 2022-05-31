@@ -13,7 +13,7 @@ from PIL import Image, ImageTk
 
 #-------load dataset-------
 
-path=r'C:\Users\hesha\PycharmProjects\Tumor Cancer Prediction_Data.csv'
+path='Tumor Cancer Prediction_Data.csv'
 cancer_data = pd.read_csv(path)
 
 #-------Data_Cleansing-------

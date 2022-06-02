@@ -12,7 +12,8 @@
 We Use : 
   - Python .
   - OOP concept .
-  - Customtkinter .
+  - Customtkinter GUI .
+  - Tinker GUI
  
 ---
 

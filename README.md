@@ -7,7 +7,7 @@
 # The goal of the Project
   - Predict the type of cell (Malignant or Benign) based on the given features.
   
-
+---
 
 We Use : 
   - Python .

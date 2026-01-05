@@ -1,25 +1,30 @@
-# Tumor_Cancer_prediciton
+# Tumor Cancer Prediciton
+## Overview
 
+This project predicts whether a cell is malignant or benign using machine learning algorithms.
+It aims to assist in early detection of cancer, potentially supporting healthcare professionals in timely diagnosis.
 
-> Cancer is one of the most lethal diseases in the present era that causes the death of enormous number of people. Using machine learning algorithms we can help to predict that Cells malignant or benignant.
----
+## Tech Stack
 
-# The goal of the Project
-  - Predict the type of cell (Malignant or Benign) based on the given features.
-  
----
+- Programming: Python
 
-We Use : 
-  - Python .
-  - OOP concept .
-  - Customtkinter GUI .
-  - Tinker GUI
- 
----
+- Concepts: Object-Oriented Programming (OOP)
+
+- GUI Development: Tkinter, CustomTkinter
+
+- Machine Learning: Classification algorithms for predicting tumor types
+
+## Key Features
+
+- Predicts cell type (Malignant / Benign) based on input features
+
+- Provides a user-friendly GUI for easy input and prediction
+
+- Implements OOP concepts for modular and maintainable code
 
 | Team Members                 |
 | ---------------------------- |
-| *Hesham ayman Mohamed*       |
+| *Hesham Ayman Mohamed*       |
 | *Heba Mohamed Saleh*         |
 | *Yasmine Khaled Atta*        |
 | *Zyad Mohamed Ismail*        |
